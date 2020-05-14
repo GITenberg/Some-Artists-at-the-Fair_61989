@@ -1,0 +1,63 @@
+_repo: Some-Artists-at-the-Fair_61989
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Low, Will H. (Will Hicok)
+    aliases:
+    - Low, Will Hicok
+    - Low, W. H. (Will Hicok)
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '51720'
+    url: http://www.gutenberg.org/2009/agents/51720
+    wikipedia: https://en.wikipedia.org/wiki/Will_Hicok_Low
+  - agent_name: Mitchell, John Ames
+    alias: Mitchell, J. A. (John Ames)
+    birthdate: 1845
+    deathdate: 1918
+    gutenberg_agent_id: '2484'
+    url: http://www.gutenberg.org/2009/agents/2484
+    wikipedia: https://en.wikipedia.org/wiki/John_Ames_Mitchell
+  - agent_name: Millet, Francis Davis
+    aliases:
+    - Millet, F. D.
+    - Millet, Frank D.
+    birthdate: 1846
+    deathdate: 1912
+    gutenberg_agent_id: '5851'
+    url: http://www.gutenberg.org/2009/agents/5851
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Davis_Millet
+  - agent_name: Gibson, W. Hamilton (William Hamilton)
+    alias: Gibson, William Hamilton
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '7134'
+    url: http://www.gutenberg.org/2009/agents/7134
+    wikipedia: https://en.wikipedia.org/wiki/William_Hamilton_Gibson
+  - agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61989'
+  lccn: 05028577
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.)'
+- !lcc 'T'
+- GITenberg
+tableOfContents: The decoration of the exposition / by F.D. Millet -- Types and people
+  at the fair / by J.A. Mitchell -- The art of the White City / by Will H. Low --
+  Foreground and vista at the fair / by W. Hamilton Gibson -- The picturesque side
+  / F. Hopkinson Smith.
+title: Some Artists at the Fair
+url: http://www.gutenberg.org/ebooks/61989
